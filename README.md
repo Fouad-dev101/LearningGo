@@ -1,9 +1,9 @@
-# LearningGo 🐹
+# LearningGo 
 
 A collection of small Go projects I'm building while learning the language.
 Each folder is a standalone program with its own `main.go` — run any of them with `go run ./FolderName`.
 
-## 📂 Projects
+##  Projects
 
 | Project | Description |
 |---------|-------------|
